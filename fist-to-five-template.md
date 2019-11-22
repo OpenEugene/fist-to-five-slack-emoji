@@ -1,8 +1,8 @@
-*PROPOSAL: <Insert proposal summary here>.*
+*PROPOSAL: Insert-proposal-summary-here.*
   
-Vote or reply in thread with any questions or comments by *<insert date>*.
+Vote or reply in thread with any questions or comments by *insert-date*.
   
-See full proposal: <insert link here>
+See full proposal: insert-link-here
 
 >![5](consensus_5.png): I support the proposal and am willing to be one of the leaders.
 
