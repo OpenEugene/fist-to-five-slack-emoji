@@ -1,8 +1,8 @@
----
-title: PROPOSAL: We use fist-to-5 consensus-based decision making."
+PROPOSAL: We use fist-to-5 consensus-based decision making."
 ---
 
 Template from Code for Boston - feel free to copy!
+
 Repo and Markdown version from OpenEugene - MIT Lincese!
 
 Why
@@ -63,10 +63,6 @@ inform the group or a sub-group going forward.
 
 We can use the following guide both in-person and on Slack:
 
-
-
-
-
 As explained in [Fist to Five Consensus Building
 Process](https://nonprofitgp.files.wordpress.com/2016/05/h03-2016-05-oah-fist-to-five-consensus-building.pdf):
 
@@ -114,6 +110,8 @@ Follow these steps to generate a poll to check for consensus in Slack.
 5.  Unpin the poll after voting has completed.
 
 Figure 1:
+
+
 
 
 
