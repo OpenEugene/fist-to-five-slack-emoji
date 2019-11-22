@@ -109,7 +109,7 @@ Follow these steps to generate a poll to check for consensus in Slack.
 
 5.  Unpin the poll after voting has completed.
 
-Figure 1: [see template](fist-to-five-template.md)
+Figure 1: [see markdown template](fist-to-five-template.md) or [slack template](fist-to-five-template.md)
 
 *PROPOSAL: Insert-proposal-summary-here.*
   
