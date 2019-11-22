@@ -131,6 +131,44 @@ See full proposal: insert-link-here
 
 >![A](consensus_abstain.png): I will not help implement this idea but don’t want to stop the group. (This could be due to disagreement or lack of time or energy.)
 
+Proposal History
+================
+
+-   11/5/19:
+
+    -   [Slack poll
+        results](https://cfb-public.slack.com/archives/CFZDU3VJ9/p1572408681138400):
+
+        -   5: Maria, Joel (2)
+
+        -   4: Franco, Jesse, Pauline, Frank (4)
+
+    -   PROPOSAL ACCEPTED
+
+    -   DECISION: Add amendments above:
+
+        -   Pin the poll in Slack.
+
+        -   After a poll has completed, remove the pin.
+
+        -   If a proposal has been accepted, the document title will be changed
+            from PROPOSAL to DECISION.
+
+-   10/29/19:
+
+    -   Timeline stated in slack.
+
+    -   When decision is being debated in-person, the points in the discussion
+        should be documented somewhere. If it’s just via Slack, no official
+        proposal document, it should be in comments on a thread on the proposal.
+
+    -   DECISION: Go through full process and post poll on Slack: 8 voted 5, 1
+        voted 4
+
+-   10/28/19:
+
+    -   Maria shared document created for Safe Water Project as example.
+
 
 Useful Resources
 ================
