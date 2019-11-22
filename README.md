@@ -1,4 +1,4 @@
-PROPOSAL: We use fist-to-5 consensus-based decision making."
+PROPOSAL: We use fist-to-5 consensus-based decision making.
 ---
 
 Template from Code for Boston - feel free to copy!
