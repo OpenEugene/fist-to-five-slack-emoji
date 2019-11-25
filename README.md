@@ -1,9 +1,11 @@
 PROPOSAL: We use fist-to-5 consensus-based decision making.
 ---
 
-Template from Code for Boston - feel free to copy!
+Template from Code for Boston - feel free to copy this and/or the [google doc](https://docs.google.com/document/d/1mZBqXzEoA9dFPnqJFbQydKX4BZ9s5-zRrzAdWUtarP8/edit?usp=sharing)!
 
 Repo and Markdown version from OpenEugene - MIT Lincese!
+
+**NOTE:** Each main heading is intended to be included as a section in **every** proposal.
 
 Why
 ===
@@ -32,10 +34,10 @@ Adrienne Maree Brown:
     1.  Structure a proposal that says what you want to do, why it serves the
         mission/vision of the group, and who/what/when/where/how it will happen.
 
-3.  Send out a written version for people to review in Slack, using the poll
+3.  Send out a written version for people to review in Slack, using the post
     template shared below. Specify the “respond by” date, providing a minimum of
-    1 week to allow for at least one in-person discussion during a weekly
-    meetup. Pin the poll in the Slack channel and unpin after voting has
+    1 meeting interval to allow for at least one in-person discussion during a weekly
+    meetup. Pin the post in the Slack channel and unpin after voting has
     completed.
 
 4.  Review the proposal together via a thread in Slack and in-person discussion.
@@ -62,6 +64,16 @@ should still be documented, as these likely reflect a decision that will help
 inform the group or a sub-group going forward.
 
 We can use the following guide both in-person and on Slack:
+
+| Icon | Description |
+| --- | --- |
+| ![5](consensus_5.png) | **Strong consensus**. I support the proposal and am willing to be one of the leaders. |
+| ![4](consensus_4.png) | **Consensus**. I support the proposal and will help implement it. |
+| ![3](consensus_3.png) | **Cautious consensus**. I’m not in total agreement but am willing to go forward without further discussion. |
+| ![2](consensus_2.png) | **No consensus**. I still would like to discuss some minor issues. |
+| ![1](consensus_1.png) | **No consensus**. I still need to discuss certain issues and suggest changes to be made. |
+| ![0](consensus_0.png) | **No consensus**. I have a fundamental disagreement with the core of the proposal. |
+| ![A](consensus_abstain.png) | **Stand aside**. I will not help implement this proposal but don’t want to stop the group. (This could be due to disagreement or lack of time or energy.) |
 
 As explained in [Fist to Five Consensus Building
 Process](https://nonprofitgp.files.wordpress.com/2016/05/h03-2016-05-oah-fist-to-five-consensus-building.pdf):
@@ -91,53 +103,59 @@ on a new proposal, especially if there are many stand asides.
 Fist-to-Five Simple Poll Template for Slack
 -------------------------------------------
 
-Follow these steps to generate a poll to check for consensus in Slack.
+Follow these steps to create a post to check for consensus in Slack.
 
-1.  Copy and paste the entire block below into the \#clean-slate channel in
-    Slack.
+1.  Copy and paste the entire block below into the your Slack channel.
 
 2.  Replace the specified sections with the proposal summary and reply-by date.
-    The date should be at least one week away for written proposals.
+    The date should be at least one meeting away for written proposals.
 
-3.  For written proposals, provide the link to full proposal in the thread (see
+3.  For written proposals, post the link to full proposal in the thread (see
     figure 1 below). For full proposals in Google Docs, the
     sharing settings should be set to “Anyone who has the link can view” to
     allow for easier review. For smaller proposals/temp checks, that line can be
     taken out.
 
-4.  Pin the poll in the Slack channel.
+4.  Pin the post in the Slack channel.
 
-5.  Unpin the poll after voting has completed.
+5.  Unpin the post after voting has completed.
 
-Figure 1: [see markdown template](fist-to-five-template.md) or [slack template](fist-to-five-template.md)
+**Figure 1** (Slack template):
 
+```
 *PROPOSAL: Insert-proposal-summary-here.*
-  
 Vote or reply in thread with any questions or comments by *insert-date*.
-  
-See full proposal: insert-link-here
+See full proposal: *<insert-link-here>*
+    
+>:consensus_5: I support the proposal and am willing to be one of the leaders.
+>:consensus_4: I support the proposal and will help implement it.
+>:consensus_3: I’m not in total agreement but am willing to go forward without further discussion.
+>:consensus_2: I still would like to discuss some minor issues.
+>:consensus_1: I still need to discuss certain issues and suggest changes to be made.
+>:consensus_0: I have a fundamental disagreement with the core of the proposal.
+>:consensus_abstain: I will not help implement this idea but don’t want to stop the group. (This could be due to disagreement or lack of time or energy.)
+```
 
->![5](consensus_5.png): I support the proposal and am willing to be one of the leaders.
+See [markdown template](fist-to-five-template.md)
 
->![4](consensus_4.png): I support the proposal and will help implement it.
+Useful Resources (to help proposal readers make their decision)
+================
 
->![3](consensus_3.png): I’m not in total agreement but am willing to go forward without further discussion.
+-   [Seeds for Change - Consensus Decision Making: A Short
+    Guide](https://www.seedsforchange.org.uk/shortconsensus)
 
->![2](consensus_2.png): I still would like to discuss some minor issues.
+-   *Emergent Strategy* (pp 232-233) by Adrienne Maree Brown
 
->![1](consensus_1.png): I still need to discuss certain issues and suggest changes to be made.
-
->![0](consensus_0.png): I have a fundamental disagreement with the core of the proposal.
-
->![A](consensus_abstain.png): I will not help implement this idea but don’t want to stop the group. (This could be due to disagreement or lack of time or energy.)
+-   [Fist to Five Consensus Building
+    Process](https://nonprofitgp.files.wordpress.com/2016/05/h03-2016-05-oah-fist-to-five-consensus-building.pdf)
 
 Proposal History
 ================
 
 -   11/5/19:
 
-    -   [Slack poll
-        results](https://cfb-public.slack.com/archives/CFZDU3VJ9/p1572408681138400):
+    -   [Slack vote
+        results](link-to-your-Slack-post-with-the-vote-on-it) (a link to the Slack post with its emoji reactions):
 
         -   5: Maria, Joel (2)
 
@@ -167,17 +185,5 @@ Proposal History
 
 -   10/28/19:
 
-    -   Maria shared document created for Safe Water Project as example.
-
-
-Useful Resources
-================
-
--   [Seeds for Change - Consensus Decision Making: A Short
-    Guide](https://www.seedsforchange.org.uk/shortconsensus)
-
--   *Emergent Strategy* (pp 232-233) by adrienne maree brown
-
--   [Fist to Five Consensus Building
-    Process](https://nonprofitgp.files.wordpress.com/2016/05/h03-2016-05-oah-fist-to-five-consensus-building.pdf)
+    -   Maria shared document created for Code for Boston as example.
 
