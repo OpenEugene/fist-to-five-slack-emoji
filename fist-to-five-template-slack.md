@@ -1,6 +1,6 @@
 *PROPOSAL: Change code-for-america slack channel to open-eugene.*
 
-Vote with emoji or reply in thread with any questions or comments by *11/26/19*.
+Vote with emoji named consensus_ or reply in thread with any questions or comments by *11/26/19*.
 
 :consensus_5: I support the proposal and am willing to be one of the leaders.
 :consensus_4: I support the proposal and will help implement it.
